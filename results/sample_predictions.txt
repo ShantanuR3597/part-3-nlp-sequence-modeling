@@ -1,0 +1,17 @@
+Message: I need information about the payment process.
+Predicted Sentiment: neutral
+
+--------------------------------------------------
+
+Message: The refund process was fast and convenient.
+Predicted Sentiment: positive
+
+--------------------------------------------------
+
+Message: My refund is still pending and this experience is frustrating.
+Predicted Sentiment: negative
+
+--------------------------------------------------
+
+Message: Please tell me how to update my account details.
+Predicted Sentiment: neutral
